@@ -2,7 +2,7 @@
 chatgpt sentiment analysis using tf-idf
 This Jupyter notebook performs sentiment analysis on tweets about ChatGPT using machine learning techniques.
 dataset download from - 'https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis'
-Here is the text without the symbols '*' and '#':
+
 
 ChatGPT Sentiment Analysis Notebook Description
 
